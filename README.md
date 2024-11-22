@@ -16,8 +16,6 @@ You must have Python installed on your machine along with the following packages
 
 You can install these packages with `pip` by running the following command:
 
-```bash
-pip install pandas qrcode[pil] openpyxl
 
 # QR Code Scanner with Webcam Integration
 
